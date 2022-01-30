@@ -64,7 +64,7 @@ ui <- basicPage(
   absolutePanel(HTML(paste("Built by Jose Fernandez | 
                            Twitter: ", a("@jfernandez__", href="https://twitter.com/jfernandez__"), " | 
                            GitHub: ", a("josedv82", href="https://github.com/josedv82"), " | ",
-                           a("App Code", href=""))), 
+                           a("App Code", href="https://github.com/josedv82/basketball_event_tracker"))), 
                 bottom = 0, right = 10, fixed = TRUE)
   
   
