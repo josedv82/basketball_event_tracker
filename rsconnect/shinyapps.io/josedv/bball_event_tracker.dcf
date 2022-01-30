@@ -1,0 +1,13 @@
+name: bball_event_tracker
+title: bball_event_tracker
+username:
+account: josedv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5543392
+bundleId: 5524512
+url: https://josedv.shinyapps.io/bball_event_tracker/
+when: 1643580629.83498
+lastSyncTime: 1643580629.83498
+asMultiple: FALSE
+asStatic: FALSE
