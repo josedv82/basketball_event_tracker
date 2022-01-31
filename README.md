@@ -2,7 +2,7 @@
 Annotate and Ttrack the coordinates of various different events in Basketball and export the dataset along with other complementary information for further analysis.  
 
 
-![alt text](event_trackergit.gif) 
+https://user-images.githubusercontent.com/40781886/151764044-b9d07b08-fdcc-4df7-bd50-0df3e61520f7.mp4
                                                         
 
 ### Main App Functionalities
