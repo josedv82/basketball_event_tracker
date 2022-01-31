@@ -22,3 +22,7 @@ Annotate and Ttrack the coordinates of various different events in Basketball an
 ### Check out the code
 
 [Code](https://github.com/josedv82/basketball_event_tracker/blob/master/app.R)
+
+### Notes
+
+The app is not optimized for mobiled devices. On laptops, it may require to adjust the zoom for optimal experience and ensure all buttons are aligned.
